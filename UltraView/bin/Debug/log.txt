@@ -1,0 +1,50 @@
+﻿ 
+*LOAD*Friday, June 6, 2025 12:11:08 AM
+OpenChatFormFriday, June 6, 2025 12:11:13 AM
+OpenFormRemote Friday, June 6, 2025 12:11:13 AM
+Open connect ports: 61246 / 61247 at 12:11 AM
+FormChatCloseFriday, June 6, 2025 12:11:15 AM
+OpenChatFormFriday, June 6, 2025 12:11:17 AM
+OpenFormRemote Friday, June 6, 2025 12:11:17 AM
+Open connect ports: 61256 / 61257 at 12:11 AM
+FormChatCloseFriday, June 6, 2025 12:11:20 AM
+OpenChatFormFriday, June 6, 2025 12:11:23 AM
+OpenFormRemote Friday, June 6, 2025 12:11:23 AM
+Open connect ports: 61260 / 61261 at 12:11 AM
+FormChatCloseFriday, June 6, 2025 12:11:24 AM
+Try Connect IP: 192.168.100.189, Port: 61260 12:11 AM
+OpenChatFormFriday, June 6, 2025 12:11:34 AM
+Connected IP: 192.168.100.189, Port: 61260 12:11 AM
+FormChatCloseFriday, June 6, 2025 12:11:39 AM
+ShareScreen: IP: 192.168.100.189, Port: 61260 12:11 AM
+Try Connect IP: 192.168.100.189, Port: 61260 12:11 AM
+OpenChatFormFriday, June 6, 2025 12:11:49 AM
+Connected IP: 192.168.100.189, Port: 61260 12:11 AM
+FormChatCloseFriday, June 6, 2025 12:11:54 AM
+Try Connect IP: 192.168.100.189, Port: 61260 12:12 AM
+OpenChatFormFriday, June 6, 2025 12:12:09 AM
+Connected IP: 192.168.100.189, Port: 61260 12:12 AM
+FormChatCloseFriday, June 6, 2025 12:12:14 AM
+FormRemoteClose Friday, June 6, 2025 12:12:28 AM
+FormRemoteClose Friday, June 6, 2025 12:12:28 AM
+FormRemoteClose Friday, June 6, 2025 12:12:28 AM
+BtnFormClose Friday, June 6, 2025 12:12:28 AM
+ 
+*LOAD*Friday, June 6, 2025 12:28:47 AM
+OpenChatFormFriday, June 6, 2025 12:28:56 AM
+OpenFormRemote Friday, June 6, 2025 12:28:56 AM
+Open connect ports: 61863 / 61864 at 12:28 AM
+FormChatCloseFriday, June 6, 2025 12:28:57 AM
+OpenChatFormFriday, June 6, 2025 12:29:01 AM
+OpenFormRemote Friday, June 6, 2025 12:29:01 AM
+Open connect ports: 61867 / 61868 at 12:29 AM
+FormChatCloseFriday, June 6, 2025 12:29:03 AM
+OpenChatFormFriday, June 6, 2025 12:29:06 AM
+OpenFormRemote Friday, June 6, 2025 12:29:06 AM
+Open connect ports: 61873 / 61874 at 12:29 AM
+FormChatCloseFriday, June 6, 2025 12:29:07 AM
+Try Connect IP: 192.168.100.189, Port: 61873 12:29 AM
+OpenChatFormFriday, June 6, 2025 12:29:17 AM
+Connected IP: 192.168.100.189, Port: 61873 12:29 AM
+FormChatCloseFriday, June 6, 2025 12:29:22 AM
+ShareScreen: IP: 192.168.100.189, Port: 61873 12:29 AM
